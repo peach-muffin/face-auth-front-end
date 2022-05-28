@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/FaceAuthenticator/static/css/main.0f8db0c6.css",
-    "main.js": "/FaceAuthenticator/static/js/main.06fbe25d.js",
-    "static/js/787.8c74da92.chunk.js": "/FaceAuthenticator/static/js/787.8c74da92.chunk.js",
-    "index.html": "/FaceAuthenticator/index.html",
-    "main.0f8db0c6.css.map": "/FaceAuthenticator/static/css/main.0f8db0c6.css.map",
-    "main.06fbe25d.js.map": "/FaceAuthenticator/static/js/main.06fbe25d.js.map",
-    "787.8c74da92.chunk.js.map": "/FaceAuthenticator/static/js/787.8c74da92.chunk.js.map"
+    "main.css": "/face-auth-front-end/static/css/main.0f8db0c6.css",
+    "main.js": "/face-auth-front-end/static/js/main.29904e97.js",
+    "static/js/787.8c74da92.chunk.js": "/face-auth-front-end/static/js/787.8c74da92.chunk.js",
+    "index.html": "/face-auth-front-end/index.html",
+    "main.0f8db0c6.css.map": "/face-auth-front-end/static/css/main.0f8db0c6.css.map",
+    "main.29904e97.js.map": "/face-auth-front-end/static/js/main.29904e97.js.map",
+    "787.8c74da92.chunk.js.map": "/face-auth-front-end/static/js/787.8c74da92.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0f8db0c6.css",
-    "static/js/main.06fbe25d.js"
+    "static/js/main.29904e97.js"
   ]
 }
